@@ -1,0 +1,6 @@
+# Venv stuff
+start.sh
+venv-just-a-reminder/*
+
+# Builds
+docs/build/*
