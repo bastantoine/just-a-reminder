@@ -10,7 +10,7 @@ That's just a reminder!
    :maxdepth: 2
    :caption: Contents:
 
-
+   docs_sphinx
 
 Indices and tables
 ==================
