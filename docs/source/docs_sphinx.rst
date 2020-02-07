@@ -26,7 +26,7 @@ To build the documentation, run ``make html`` in the root folder (where the ``Ma
 Host it to readthedocs.org
 ------------------------------
 
-`<readthedocs.org>`_ (RTD) provides full and free hosting for various types of documentation (sphynx, Mkdocs,...).
+`readthedocs.org <https://readthedocs.org>`_ (RTD) provides full and free hosting for various types of documentation (sphynx, Mkdocs,...).
 
 To do so, you'll have to host your source code in a publically available server using a version control system (Git, SVN, Mercurial,...).
 
