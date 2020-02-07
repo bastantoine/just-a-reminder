@@ -4,3 +4,6 @@ venv-just-a-reminder/*
 
 # Builds
 docs/build/*
+
+# Stuff added by VS Code
+.vscode/
