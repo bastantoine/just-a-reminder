@@ -6,6 +6,7 @@ That's just a reminder!
    :caption: Contents:
 
    docs_sphinx
+   nginx
 
 Indices and tables
 ==================
