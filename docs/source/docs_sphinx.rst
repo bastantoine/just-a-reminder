@@ -1,5 +1,5 @@
-Creating docs using Sphinx
-==========================
+Creating docs using Sphinx and readthedocs.org
+==============================================
 
 Creating the doc
 ----------------
