@@ -7,6 +7,7 @@ That's just a reminder!
 
    docs_sphinx
    nginx
+   various.rst
 
 Indices and tables
 ==================
