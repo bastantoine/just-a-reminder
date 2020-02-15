@@ -32,7 +32,9 @@ Turn off the startup message
 Customize the status line
 -------------------------
 
-:: 
+Here's a good article that covers the ``hardstatus string`` format : `kilobitspersecond.com <https://www.kilobitspersecond.com/2014/02/10/understanding-gnu-screens-hardstatus-strings/>`_
+
+::
 
  hardstatus alwayslastline
  hardstatus string '%{= kG}[ %{G}%H %{g}][%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B} %m-%d %{W}%c %{g}]'
