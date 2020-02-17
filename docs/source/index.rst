@@ -7,7 +7,8 @@ That's just a reminder!
 
    docs_sphinx
    nginx
-   various.rst
+   various
+   django
 
 Indices and tables
 ==================
