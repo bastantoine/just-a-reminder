@@ -23,6 +23,8 @@ This creates a few files, like ``index.rst`` which is the default entry point of
 
 To build the documentation, run ``make html`` in the root folder (where the ``Makefile`` is) and open ``index.html`` inside the ``build`` folder.
 
+Sphinx uses ``reStructuredText``, also named ``ReST``. See `this doc <https://rest-sphinx-memo.readthedocs.io/en/latest/ReST.html>`_ to know how to use it.
+
 Host it to readthedocs.org
 ------------------------------
 
