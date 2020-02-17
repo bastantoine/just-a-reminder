@@ -93,6 +93,10 @@ We check that everything was realoaded fine::
 
 If there's no problem, the files are served properly!
 
+.. note::
+
+   Nginx's access and error log files are stored by default under ``/var/log/nginx/access.log`` and ``/var/log/nginx/error.log``. They can be viewed in live using ``tail -f`` (See it's `man page <http://man7.org/linux/man-pages/man1/tail.1.html>`_).
+
 Hosting a Django project using Gunicorn
 ---------------------------------------
 To be filled soon!
